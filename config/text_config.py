@@ -1,0 +1,13 @@
+# Const
+TEXT_SETTINGS = "Settings"
+TEXT_DECODING = "Decoding"
+TEXT_TEXT_COLOR = "Text Color:"
+TEXT_CONSOLE_COLOR = "Console Color:"
+TEXT_CONSOLE = "Console"
+TEXT_CLEAR_FIELD = "Clear"
+TEXT_DEVICES = "Devices"
+TEXT_UPDATE = "Update"
+TEXT_CONNECT = "Connect"
+TEXT_DISCONNECT = "Disconnect"
+TEXT_APPLY = "Apply"
+TEXT_RESET = "Reset"
